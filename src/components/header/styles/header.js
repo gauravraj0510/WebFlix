@@ -30,10 +30,10 @@ export const Link = styled.p`
   color: red;
   text-decoration: none;
   margin-right: 30px;
-  font-weight: ${({ active }) => (active === 'true' ? '800' : 'normal')};
+  font-weight: ${({ active }) => (active === 'true' ? '700' : 'normal')};
   cursor: pointer;
   &:hover {
-    font-weight: 800;
+    font-weight: bold;
   }
   &:last-of-type {
     margin-right: 0;
