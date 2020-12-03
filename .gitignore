@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# firebase api keys
+/src/lib/firebase.prod.js
+
 # testing
 /coverage
 
