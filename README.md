@@ -26,6 +26,10 @@ Gaurav Raj - [LinkedIn](https://www.linkedin.com/in/gaurav-raj-5893b0195/)
 <img src='Examples/browse1.png' width='600'>
 <img src='Examples/browse2.png' width='600'>
 
+- View Movie details and play it Live
+<img src='Examples/view.png' width='600'>
+<img src='Examples/player.png' width='600'>
+
 - Who's watching screen before Browse Page
 <img src='Examples/user.png' width='600'>
 
