@@ -13,7 +13,16 @@ Gaurav Raj - [LinkedIn](https://www.linkedin.com/in/gaurav-raj-5893b0195/)
  - Live Search feature in browse page
 
 ## Look and feel of the site
-- Home Screen 
-<img src='Examples/home1.png' height='400'>
-<img src='Examples/home2.png' height='400'>
-<img src='Examples/home3.png' height='400'>
+- Home Page 
+<img src='Examples/home1.png' height='300'>
+<img src='Examples/home2.png' height='300'>
+<img src='Examples/home3.png' height='300'>
+
+- Sign In and Sign Up Page
+<img src='Examples/signin.png' height='300'>
+<img src='Examples/signup.png' height='300'>
+
+- Browse Page 
+<img src='Examples/browse1.png' height='300'>
+<img src='Examples/browse2.png' height='300'>
+
