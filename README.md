@@ -19,7 +19,7 @@ Gaurav Raj - [LinkedIn](https://www.linkedin.com/in/gaurav-raj-5893b0195/)
 <img src='Examples/home3.png' height='300'>
 
 - Sign In and Sign Up Page
-<img src='Examples/signin.png' height='300'>
+<img src='Examples/sigin.png' height='300'>
 <img src='Examples/signup.png' height='300'>
 
 - Browse Page 
