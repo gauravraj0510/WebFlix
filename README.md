@@ -1,5 +1,5 @@
 # WebFlix
-A replica of Netflix made using react and firebase
+A replica of Netflix made using reactJS and firebase
 
 ## Live Site
 https://webflix-by-raj.netlify.app/
