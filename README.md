@@ -14,22 +14,22 @@ Gaurav Raj - [LinkedIn](https://www.linkedin.com/in/gaurav-raj-5893b0195/)
 
 ## Look and feel of the site
 - Home Page 
-<img src='Examples/home1.png' width='600'>
-<img src='Examples/home2.png' width='600'>
-<img src='Examples/home3.png' width='600'>
+<img src='Examples/home1.png' >
+<img src='Examples/home2.png' >
+<img src='Examples/home3.png' >
 
 - Sign In and Sign Up Page
-<img src='Examples/sigin.png' width='600'>
-<img src='Examples/signup.png' width='600'>
+<img src='Examples/sigin.png' >
+<img src='Examples/signup.png' >
 
 - Browse Page 
-<img src='Examples/browse1.png' width='600'>
-<img src='Examples/browse2.png' width='600'>
+<img src='Examples/browse1.png' >
+<img src='Examples/browse2.png' >
 
 - View Movie details and play it Live
-<img src='Examples/view.png' width='600'>
-<img src='Examples/player.png' width='600'>
+<img src='Examples/view.png' >
+<img src='Examples/player.png' >
 
 - Who's watching screen before Browse Page
-<img src='Examples/user.png' width='600'>
+<img src='Examples/user.png' >
 
